@@ -1,16 +1,34 @@
-## Hi there 👋
+¡Hola! Soy Diego 👋
+Software Engineering & AI Student
 
-<!--
-**vinny-uribe12/vinny-uribe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Software con Inteligencia Artificial, apasionado por el desarrollo de aplicaciones, la automatización y la creación de soluciones tecnológicas.
+ Tecnologías
+Java
 
-Here are some ideas to get you started:
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PHP
+
+Android
+
+MySQL
+
+Laravel
+
+Flask
+
+Django
+
+
+ Objetivos
+- Mejorar mis habilidades de programación.
+- Desarrollar proyectos de inteligencia artificial.
+- Obtener experiencia mediante prácticas preprofesionales.
+   Mis proyectos
+  Mis Películas — Android
+  
+  Aplicación desarrollada en Java con SQLite, RecyclerView y operaciones CRUD.
+  
+  API REST — Node.js
+  
+  Backend para gestionar información utilizando Express y MySQL.

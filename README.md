@@ -1,8 +1,8 @@
-¡Hola! Soy Diego 👋
-Software Engineering & AI Student
+¡Hola! Soy Diego Uribe 👋
+Estudiante de Ingeniería de Software con Inteligencia Artificial
 
-Soy estudiante de Ingeniería de Software con Inteligencia Artificial, apasionado por el desarrollo de aplicaciones, la automatización y la creación de soluciones tecnológicas.
- Tecnologías
+💻 Apasionado por el desarrollo de software, la automatización y la creación de soluciones innovadoras.
+ Tecnologías y herramientas
 Java
 
 Python
@@ -19,16 +19,18 @@ Flask
 
 Django
 
+Node.js
 
- Objetivos
-- Mejorar mis habilidades de programación.
-- Desarrollar proyectos de inteligencia artificial.
-- Obtener experiencia mediante prácticas preprofesionales.
-   Mis proyectos
-  Mis Películas — Android
-  
-  Aplicación desarrollada en Java con SQLite, RecyclerView y operaciones CRUD.
-  
-  API REST — Node.js
-  
-  Backend para gestionar información utilizando Express y MySQL.
+
+ Mis proyectos
+🎬 Mis Películas — Android
+
+Aplicación desarrollada en Java con SQLite, RecyclerView y operaciones CRUD.
+
+🌐 API REST — Node.js
+
+Backend desarrollado con Express y MySQL.
+ Mis objetivos
+- Seguir aprendiendo sobre inteligencia artificial.
+- Desarrollar proyectos innovadores.
+- Conseguir prácticas preprofesionales.

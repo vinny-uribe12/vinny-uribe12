@@ -1,36 +1,54 @@
-¡Hola! Soy Diego Uribe 👋
-Estudiante de Ingeniería de Software con Inteligencia Artificial
 
-💻 Apasionado por el desarrollo de software, la automatización y la creación de soluciones innovadoras.
- Tecnologías y herramientas
-Java
+# ¡Hola! Soy Diego Uribe 👋
 
-Python
+### 💻 Estudiante de Ingeniería de Software con Inteligencia Artificial
 
-PHP
+Soy un estudiante apasionado por el desarrollo de software, la inteligencia artificial y la automatización de procesos.
 
-Android
+Me considero una persona responsable, resiliente y comprometida, con capacidad para resolver problemas, aprender rápidamente y trabajar en equipo.
 
-MySQL
+---
 
-Laravel
+## 🛠️ Tecnologías y herramientas
 
-Flask
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-Django
+---
 
-Node.js
+## 🚀 Proyectos destacados
 
+### 🎬 Mis Películas — Android
+Aplicación Android desarrollada en Java que utiliza SQLite, RecyclerView y operaciones CRUD para gestionar películas.
 
- Mis proyectos
-🎬 Mis Películas — Android
+### 🌐 API REST — Node.js
+Backend desarrollado con Express y MySQL para gestionar información mediante endpoints REST.
 
-Aplicación desarrollada en Java con SQLite, RecyclerView y operaciones CRUD.
+---
 
-🌐 API REST — Node.js
+## 🎯 Objetivos profesionales
 
-Backend desarrollado con Express y MySQL.
- Mis objetivos
-- Seguir aprendiendo sobre inteligencia artificial.
-- Desarrollar proyectos innovadores.
-- Conseguir prácticas preprofesionales.
+- 🤖 Profundizar mis conocimientos en inteligencia artificial.
+- 🚀 Desarrollar aplicaciones y soluciones tecnológicas innovadoras.
+- 💼 Obtener experiencia mediante prácticas preprofesionales.
+- 📚 Seguir aprendiendo nuevas tecnologías.
+
+---
+
+## 📫 Conectemos
+
+📍 Lima, Perú
+
+🤝 Abierto a colaborar en proyectos tecnológicos y seguir aprendiendo.
+
+---
+
+⭐ Gracias por visitar mi perfil.
+  
